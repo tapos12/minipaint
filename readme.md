@@ -75,6 +75,6 @@ Then you select "OK"/"Cancel" button and any point of the canvas to draw it at t
 For any type of query or technical help , can contact with the authors.
 
 Authors:
-1. Md. Touhidul Alam Tapos (tapos12.hotmail.com)
-2. Md. Hamjajul Ashmafee (ashmafee@gmail.com)
-3. Md. Hasib Hasan ()
+1. Md. Touhidul Alam
+2. Md. Hamjajul Ashmafee
+3. Md. Hasib Hasan
